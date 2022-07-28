@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ozan Tasci",
+        "age" : 28,
+        "email" : "ozan.tassci@outlook.com"
+    },
+    {
+        "id" : 2,
+        "name" : "Mary Doe",
+        "age" : 29,
+        "email" : "mary@gmail.com"
+    },
+    {
+        "id" : 3,
+        "name" : "Michael Carl",
+        "age" : 38,
+        "email" : "m.carl@gmail.com"
+    }
+
+]
